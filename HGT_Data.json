@@ -1,1 +1,1 @@
-{"data": [{"COle": [{"info": [{"name": "COle", "age": "20", "guardian": "mike", "phone number": "123"}]}, {"patient data": [{"time": "0", "tension": "0"}]}]}]}
+{"data": [{"COle": [{"info": [{"name": "COle", "age": "20", "guardian": "mike", "phone number": "123"}]}, {"patient data": [{"time": "0", "tension": "0"}]}, {"patient data": [{"time": "1", "tension": "8"}]}]}, {"COle": [{"info": [{"name": "COle", "age": "20", "guardian": "mike", "phone number": "123"}]}]}]}
