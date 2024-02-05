@@ -1,1 +1,260 @@
-{"data": [{"Cole Malinchock": [{"info": [{"name": "Cole Malinchock", "age": "20", "guardian": "Mike and Laura Malinchock", "phone number": "919-240-4776"}]}, {"patient data": [{"date": ["Feb", "2", "15:17:03"], "time": 1706905023.1502645, "tension": "-0.0031253677644954426", "tension_setpoint": "12"}]}]}, {"John Bullock": [{"info": [{"name": "John Bullock", "age": "12", "guardian": "Amy and Kelley Bullock", "phone number": "919-547-3245"}]}, {"patient data": [{"date": ["Feb", "2", "15:17:03"], "time": 1706905023.1502645, "tension": "1.993749264471009", "tension_setpoint": "12"}]}]}]}
+{
+    "data": [
+        {
+            "Cole Malinchock": [
+                {
+                    "info": [
+                        {
+                            "name": "Cole Malinchock",
+                            "age": "20",
+                            "guardian": "Mike and Laura Malinchock",
+                            "phone number": "919-240-4776"
+                        }
+                    ]
+                },
+                {
+                    "patient data": [
+                        {
+                            "date": [
+                                "Feb",
+                                "2",
+                                "15:17:03"
+                            ],
+                            "time": 1706905023.1502645,
+                            "tension": "-0.0031253677644954426",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:10:00"
+                            ],
+                            "time": 1707160200.7024925,
+                            "tension": "0.03391335048166645",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:20:00"
+                            ],
+                            "time": 1707160800.7969532,
+                            "tension": "0.568986735259999",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:30:00"
+                            ],
+                            "time": 1707161400.4184904,
+                            "tension": "0.43716649013970854",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:20:00"
+                            ],
+                            "time": 1707160800.5391765,
+                            "tension": "0.004122324775978896",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:30:00"
+                            ],
+                            "time": 1707161400.9859931,
+                            "tension": "1.538333249272877",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:40:00"
+                            ],
+                            "time": 1707162000.8256404,
+                            "tension": "2.900959970410719",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:50:00"
+                            ],
+                            "time": 1707162600.62014,
+                            "tension": "3.0524049696541753",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:00:00"
+                            ],
+                            "time": 1707163200.3272083,
+                            "tension": "3.593878717573679",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:10:00"
+                            ],
+                            "time": 1707163800.0581942,
+                            "tension": "4.242221885980397",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:20:00"
+                            ],
+                            "time": 1707164400.1567316,
+                            "tension": "7.73738000369866",
+                            "tension_setpoint": "12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "John Bullock": [
+                {
+                    "info": [
+                        {
+                            "name": "John Bullock",
+                            "age": "12",
+                            "guardian": "Amy and Kelley Bullock",
+                            "phone number": "919-547-3245"
+                        }
+                    ]
+                },
+                {
+                    "patient data": [
+                        {
+                            "date": [
+                                "Feb",
+                                "2",
+                                "15:17:03"
+                            ],
+                            "time": 1706905023.1502645,
+                            "tension": "1.993749264471009",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:10:00"
+                            ],
+                            "time": 1707160200.7024925,
+                            "tension": "2.067826700963333",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:20:00"
+                            ],
+                            "time": 1707160800.7969532,
+                            "tension": "3.1379734705199978",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:30:00"
+                            ],
+                            "time": 1707161400.4184904,
+                            "tension": "2.874332980279417",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:20:00"
+                            ],
+                            "time": 1707160800.5391765,
+                            "tension": "2.008244649551958",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:30:00"
+                            ],
+                            "time": 1707161400.9859931,
+                            "tension": "5.0766664985457535",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:40:00"
+                            ],
+                            "time": 1707162000.8256404,
+                            "tension": "7.801919940821438",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "14:50:00"
+                            ],
+                            "time": 1707162600.62014,
+                            "tension": "8.10480993930835",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:00:00"
+                            ],
+                            "time": 1707163200.3272083,
+                            "tension": "9.187757435147358",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:10:00"
+                            ],
+                            "time": 1707163800.0581942,
+                            "tension": "10.484443771960795",
+                            "tension_setpoint": "12"
+                        },
+                        {
+                            "date": [
+                                "Feb",
+                                "5",
+                                "15:20:00"
+                            ],
+                            "time": 1707164400.1567316,
+                            "tension": "17.47476000739732",
+                            "tension_setpoint": "12"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
